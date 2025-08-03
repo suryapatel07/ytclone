@@ -1,0 +1,340 @@
+*{
+    font-size: 14px;
+    font-family:Arial, Helvetica, sans-serif ;
+    margin: 0px;
+    color: white;
+}
+body{
+    background-color: #000000;
+}
+.navbar{
+    height: 56px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.logo{
+    height: 100%;
+    width: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.option{
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.youtube{
+    height: 56px;
+    width: 120px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.youtube h4{
+    font-size: 19px;
+}
+.youtube sup{
+    font-size: 13px;
+    font-weight: lighter;
+}
+.youtube i{
+   font-size: 30px;
+   margin-right: 5px;
+}
+.all{
+    height: 24px;
+    width: 24px;
+    color: white;
+    margin-right: 15px;
+}
+.all i{
+    font-size: 20px;
+}
+.search{
+    height: 40px;
+    width: 732px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.input{
+    height: 40px;
+    width: 536px;
+    border: 0.5px solid white;
+    border-top-left-radius: 22px;
+    border-bottom-left-radius: 22px;
+}
+.input input{
+    height: 100%;
+    width: 100%;
+    background-color: transparent;
+    color: white;
+    border: none;
+    
+}
+.border:hover{
+    border: 1px solid green;
+}
+.icon{
+    height: 40px;
+    width: 64px;
+    border: 0.5px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top-right-radius: 22px;
+    border-bottom-right-radius: 22px;
+    background-color: #00000000;
+}
+.icon i{
+    font-size: 20px;
+}
+.mice{
+    height: 40px;
+    width: 40px;
+    border: 0.5px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+.mice i{
+    font-size: 17px;
+}
+
+.sign{
+    height: 40px;
+    width: 225px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+
+}
+.video{
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.video i{
+    font-size: 17px;
+}
+.notification{
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.notification i{
+    font-size: 17px;
+}
+.user{
+    height: 34px;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.user i{
+    font-size: 17px;
+}
+.menu{
+    width: 74px;
+    height: 1300px;
+    
+}
+.panel{
+    height: 56px;
+    width: 2096px;
+    display: flex;
+    align-items: center;
+
+}
+.panel div{
+    margin-left: 20px;
+    border: 0.001px solid white;
+    border-radius: 4px;
+    background-color: #ffffffa1;
+    color: #f1f1f1;
+}
+.panel div a{
+    font-size: 1.1rem;
+}
+.mainpanel{
+    display: flex;
+    margin-top: 19px;
+}
+#one{
+    height: 32px;
+    background-color: #f1f1f1;
+    width: 41px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#one a{
+    color: black;
+}
+#two{
+    height: 32px;
+    width: 106px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffffa1;
+}
+#three{
+    height: 32px;
+    width: 122px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#four{
+    height: 32px;
+    width: 63px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#five{
+    height: 32px;
+    width: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#six{
+    height: 32px;
+    width: 76px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#seven{
+    height: 32px;
+    width: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#eight{
+    height: 32px;
+    width: 105px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#nine{
+    height: 32px;
+    width: 72px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#ten{
+    height: 32px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu div i{
+    font-size: 1.5rem;
+}
+.home{
+    height: 74px;
+    width: 64px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    text-align: center;
+}
+.short{
+    height: 74px;
+    width: 64px;
+    text-align: center;
+    
+}
+
+.subscription{
+    height: 74px;
+    width: 64px;
+    text-align: center;
+}
+.you{
+    height: 74px;
+    width: 64px;
+    text-align: center;
+}
+.download{
+    height: 74px;
+    width: 64px;
+    text-align: center;
+}
+.menu div{
+    margin-top:30px;
+}
+.menu div i{
+    margin-bottom: 5px;
+}
+.content{
+    height: 290px;
+    width: 1164px;
+    margin-top: 90px;
+    position: absolute;
+    left: 85px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.box1{
+    height: 100%;
+    width: 92%;
+    
+}
+.box2{
+    height: 100%;
+    width: 92%;
+}
+.box3{
+    height: 100%;
+    width: 92%;
+}
+.image1{
+    height: 210px;
+    width: 373px;
+    margin-left: 30px;
+    background-image: url("box1_image.jpg");
+    background-size: cover;
+    border-radius: 9px;
+}
+#font{
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: #f1f1f1;
+    margin-left: 30px;
+}
+#colors{
+    font-size: 14px;
+    color: #aaaaaa;
+    margin-left: 30px;
+}
