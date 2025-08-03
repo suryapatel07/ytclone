@@ -62,7 +62,7 @@ No copyrighted material has been used.
 
 ## 🔗 GitHub Repository
 
-👉 [View this Project on GitHub](https://github.com/suryapatel07/youtube-clone)
+👉 [View this Project on GitHub](https://github.com/suryapatel07/ytclone)
 
 ---
 
