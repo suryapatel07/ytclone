@@ -321,7 +321,7 @@ body{
     height: 210px;
     width: 373px;
     margin-left: 30px;
-    background-image: url("box1_image.jpg");
+    background-image: url("images/box1_image.jpg");
     background-size: cover;
     border-radius: 9px;
 }
@@ -337,4 +337,5 @@ body{
     font-size: 14px;
     color: #aaaaaa;
     margin-left: 30px;
+
 }
